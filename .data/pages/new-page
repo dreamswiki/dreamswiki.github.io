@@ -1,0 +1,799 @@
+{
+  "title": "new-page",
+  "story": [
+    {
+      "type": "code",
+      "id": "ece2892dbf4d119f",
+      "text": "Click a Flamingo"
+    },
+    {
+      "type": "html",
+      "id": "76f49969511c9415",
+      "text": "<html>\n<header><title>This is title</title></header>\n<body>\nClick the image below\n</body>\n</html>"
+    },
+    {
+      "type": "html",
+      "id": "d87072bb57d0eb49",
+      "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>"
+    },
+    {
+      "type": "html",
+      "id": "fd81a4e71d773490",
+      "text": "https://dreams-wiki.glitch.me/view/test-page-2"
+    },
+    {
+      "type": "html",
+      "id": "3669bc7f3621baa5",
+      "text": "[[new-page]]"
+    },
+    {
+      "type": "html",
+      "id": "e5c03711c99bae10",
+      "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=\"dog\" alt=\"cat\"></a>"
+    },
+    {
+      "type": "html",
+      "id": "165742d660afee24",
+      "text": "<div class=\"container\">\n  <img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" alt=\"Snow\" style=\"width:50%;\">\n  <div class=\"bottom-left\">Bottom Left</div>\n  <div class=\"top-left\">Top Left</div>\n  <div class=\"top-right\">Top Right</div>\n  <div class=\"bottom-right\">Bottom Right</div>\n  <div class=\"centered\">Centered</div>\n</div>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "new-page",
+        "story": []
+      },
+      "date": 1549836251067
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ece2892dbf4d119f"
+      },
+      "id": "ece2892dbf4d119f",
+      "type": "add",
+      "date": 1549836257542
+    },
+    {
+      "type": "edit",
+      "id": "ece2892dbf4d119f",
+      "item": {
+        "type": "code",
+        "id": "ece2892dbf4d119f",
+        "text": "test"
+      },
+      "date": 1549836265085
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fd81a4e71d773490"
+      },
+      "id": "fd81a4e71d773490",
+      "type": "add",
+      "after": "a4c3be62813210f0",
+      "date": 1549836785108
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "image",
+        "id": "e692e18d10f9cde1",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAIAAADZSiLoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAARSURBVBhXY0AHb2VUYBQDAwAVrQJbemBcBQAAAABJRU5ErkJggg==",
+        "caption": "Uploaded image",
+        "text": "Test Image"
+      },
+      "after": "fd81a4e71d773490",
+      "id": "e692e18d10f9cde1",
+      "date": 1549868750517
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0772740d840dc86"
+      },
+      "id": "d0772740d840dc86",
+      "type": "add",
+      "after": "ece2892dbf4d119f",
+      "date": 1549905822827
+    },
+    {
+      "type": "remove",
+      "id": "d0772740d840dc86",
+      "date": 1549905827953
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "76f49969511c9415"
+      },
+      "id": "76f49969511c9415",
+      "type": "add",
+      "after": "ece2892dbf4d119f",
+      "date": 1549905847747
+    },
+    {
+      "type": "edit",
+      "id": "76f49969511c9415",
+      "item": {
+        "type": "html",
+        "id": "76f49969511c9415",
+        "text": "<html>\n<header><title>This is title</title></header>\n<body>\nHello world\n</body>\n</html>"
+      },
+      "date": 1549905855313
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b4797d9ade127225"
+      },
+      "id": "b4797d9ade127225",
+      "type": "add",
+      "after": "76f49969511c9415",
+      "date": 1549905946082
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "https://html.com/wp-content/uploads/flamingo.jpg"
+      },
+      "date": 1549905948949
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\">"
+      },
+      "date": 1549905974153
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549906519416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d87072bb57d0eb49"
+      },
+      "id": "d87072bb57d0eb49",
+      "type": "add",
+      "after": "b4797d9ade127225",
+      "date": 1549906525509
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549906527820
+    },
+    {
+      "type": "move",
+      "order": [
+        "fd81a4e71d773490",
+        "e692e18d10f9cde1",
+        "ece2892dbf4d119f",
+        "76f49969511c9415",
+        "d87072bb57d0eb49",
+        "b4797d9ade127225"
+      ],
+      "id": "d87072bb57d0eb49",
+      "date": 1549906529358
+    },
+    {
+      "type": "move",
+      "order": [
+        "fd81a4e71d773490",
+        "e692e18d10f9cde1",
+        "ece2892dbf4d119f",
+        "76f49969511c9415",
+        "b4797d9ade127225",
+        "d87072bb57d0eb49"
+      ],
+      "id": "b4797d9ade127225",
+      "date": 1549906531495
+    },
+    {
+      "type": "move",
+      "order": [
+        "fd81a4e71d773490",
+        "ece2892dbf4d119f",
+        "e692e18d10f9cde1",
+        "76f49969511c9415",
+        "b4797d9ade127225",
+        "d87072bb57d0eb49"
+      ],
+      "id": "e692e18d10f9cde1",
+      "date": 1549906532661
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ad20886b3280b697"
+      },
+      "id": "ad20886b3280b697",
+      "type": "add",
+      "after": "d87072bb57d0eb49",
+      "date": 1549906737892
+    },
+    {
+      "type": "edit",
+      "id": "ece2892dbf4d119f",
+      "item": {
+        "type": "code",
+        "id": "ece2892dbf4d119f",
+        "text": "test [[Test Page 2]]"
+      },
+      "date": 1549906754637
+    },
+    {
+      "type": "edit",
+      "id": "e692e18d10f9cde1",
+      "item": {
+        "type": "image",
+        "id": "e692e18d10f9cde1",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAIAAADZSiLoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAARSURBVBhXY0AHb2VUYBQDAwAVrQJbemBcBQAAAABJRU5ErkJggg==",
+        "caption": "Uploaded image",
+        "text": "[[Test Page 2]]"
+      },
+      "date": 1549906766677
+    },
+    {
+      "type": "remove",
+      "id": "ad20886b3280b697",
+      "date": 1549906904873
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "e692e18d10f9cde1",
+        "76f49969511c9415",
+        "b4797d9ade127225",
+        "d87072bb57d0eb49",
+        "fd81a4e71d773490"
+      ],
+      "id": "fd81a4e71d773490",
+      "date": 1549906983632
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "e692e18d10f9cde1",
+        "76f49969511c9415",
+        "d87072bb57d0eb49",
+        "b4797d9ade127225",
+        "fd81a4e71d773490"
+      ],
+      "id": "d87072bb57d0eb49",
+      "date": 1549906986541
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "76f49969511c9415",
+        "e692e18d10f9cde1",
+        "d87072bb57d0eb49",
+        "b4797d9ade127225",
+        "fd81a4e71d773490"
+      ],
+      "id": "e692e18d10f9cde1",
+      "date": 1549906987514
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "d87072bb57d0eb49",
+        "76f49969511c9415",
+        "e692e18d10f9cde1",
+        "b4797d9ade127225",
+        "fd81a4e71d773490"
+      ],
+      "id": "d87072bb57d0eb49",
+      "date": 1549906989386
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "d87072bb57d0eb49",
+        "b4797d9ade127225",
+        "76f49969511c9415",
+        "e692e18d10f9cde1",
+        "fd81a4e71d773490"
+      ],
+      "id": "b4797d9ade127225",
+      "date": 1549906993298
+    },
+    {
+      "type": "edit",
+      "id": "fd81a4e71d773490",
+      "item": {
+        "type": "html",
+        "id": "fd81a4e71d773490",
+        "text": "https://dreams-wiki.glitch.me/view/test-page-2"
+      },
+      "date": 1549907346932
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"https://www.w3schools.com\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907367036
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "<a href=\"https://dreams-wiki.glitch.me/view/test-page-2\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907423960
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "b4797d9ade127225",
+        "76f49969511c9415",
+        "e692e18d10f9cde1",
+        "d87072bb57d0eb49",
+        "fd81a4e71d773490"
+      ],
+      "id": "d87072bb57d0eb49",
+      "date": 1549907615328
+    },
+    {
+      "type": "move",
+      "order": [
+        "ece2892dbf4d119f",
+        "76f49969511c9415",
+        "e692e18d10f9cde1",
+        "d87072bb57d0eb49",
+        "fd81a4e71d773490",
+        "b4797d9ade127225"
+      ],
+      "id": "b4797d9ade127225",
+      "date": 1549907618452
+    },
+    {
+      "type": "remove",
+      "id": "b4797d9ade127225",
+      "date": 1549907638206
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"https://dreams-wiki.glitch.me/view/test-page-2\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907677894
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "<a href=\"https://dreams-wiki.glitch.me/view/test-page-2\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907684223
+    },
+    {
+      "type": "remove",
+      "id": "e692e18d10f9cde1",
+      "date": 1549907690734
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"https://dreams-wiki.glitch.me/view/test-page-2\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907752339
+    },
+    {
+      "type": "edit",
+      "id": "b4797d9ade127225",
+      "item": {
+        "type": "html",
+        "id": "b4797d9ade127225",
+        "text": "<a href=\"https://dreams-wiki.glitch.me/view/test-page-2\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549907755203
+    },
+    {
+      "type": "remove",
+      "id": "e692e18d10f9cde1",
+      "date": 1549907760405
+    },
+    {
+      "type": "edit",
+      "id": "ece2892dbf4d119f",
+      "item": {
+        "type": "code",
+        "id": "ece2892dbf4d119f",
+        "text": "Click a Flamingo"
+      },
+      "date": 1549907767574
+    },
+    {
+      "type": "edit",
+      "id": "76f49969511c9415",
+      "item": {
+        "type": "html",
+        "id": "76f49969511c9415",
+        "text": "<html>\n<header><title>This is title</title></header>\n<body>\nClick the image below\n</body>\n</html>"
+      },
+      "date": 1549907778874
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c8473721b5df14a"
+      },
+      "id": "4c8473721b5df14a",
+      "type": "add",
+      "after": "fd81a4e71d773490",
+      "date": 1549912410826
+    },
+    {
+      "type": "remove",
+      "id": "4c8473721b5df14a",
+      "date": 1549912422029
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ebc306894259edbb"
+      },
+      "id": "ebc306894259edbb",
+      "type": "add",
+      "after": "fd81a4e71d773490",
+      "date": 1549912444535
+    },
+    {
+      "type": "edit",
+      "id": "ebc306894259edbb",
+      "item": {
+        "type": "markdown",
+        "id": "ebc306894259edbb",
+        "text": "{\n  \"foo\": \"bar\"\n}"
+      },
+      "date": 1549912446397
+    },
+    {
+      "type": "remove",
+      "id": "ebc306894259edbb",
+      "date": 1549912449727
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3669bc7f3621baa5"
+      },
+      "id": "3669bc7f3621baa5",
+      "type": "add",
+      "after": "fd81a4e71d773490",
+      "date": 1549922216652
+    },
+    {
+      "type": "edit",
+      "id": "3669bc7f3621baa5",
+      "item": {
+        "type": "html",
+        "id": "3669bc7f3621baa5",
+        "text": "[[new-page]]"
+      },
+      "date": 1549922224029
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549922251088
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">caption text</caption>"
+      },
+      "date": 1549922475187
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>"
+      },
+      "date": 1549922487965
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>"
+      },
+      "date": 1549922503720
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n"
+      },
+      "date": 1549922514589
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e5c03711c99bae10"
+      },
+      "id": "e5c03711c99bae10",
+      "type": "add",
+      "after": "3669bc7f3621baa5",
+      "date": 1549923359812
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923362518
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"[[Test page 2]]\"></a>"
+      },
+      "date": 1549923405535
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"[Test page 2]\"></a>"
+      },
+      "date": 1549923426469
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"[[Test page 2]]\"></a>"
+      },
+      "date": 1549923435368
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923462063
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower power [[test]]\"></a>"
+      },
+      "date": 1549923469053
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower power \"[[test]]\"\"></a>"
+      },
+      "date": 1549923526998
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower power\"></a>"
+      },
+      "date": 1549923534287
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"White flower\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923539830
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"flower.jpg\" style=\"width:82px; height:86px\" title=\"test\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923545790
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=\"test\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923559442
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=\"[[test]]\" alt=\"Flower\"></a>"
+      },
+      "date": 1549923568649
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=[[test]] alt=\"Flower\"></a>"
+      },
+      "date": 1549923607316
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=[[test]] alt=[[test]]></a>"
+      },
+      "date": 1549923620193
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=\"[[test]]\" alt=[[test]]></a>"
+      },
+      "date": 1549923635346
+    },
+    {
+      "type": "edit",
+      "id": "e5c03711c99bae10",
+      "item": {
+        "type": "html",
+        "id": "e5c03711c99bae10",
+        "text": "<a href=\"../html-link.htm\"><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" style=\"width:82px; height:86px\" title=\"dog\" alt=\"cat\"></a>"
+      },
+      "date": 1549923647133
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "165742d660afee24"
+      },
+      "id": "165742d660afee24",
+      "type": "add",
+      "after": "e5c03711c99bae10",
+      "date": 1549923697970
+    },
+    {
+      "type": "edit",
+      "id": "165742d660afee24",
+      "item": {
+        "type": "html",
+        "id": "165742d660afee24",
+        "text": "<div class=\"container\">\n  <img src=\"img_snow_wide.jpg\" alt=\"Snow\" style=\"width:100%;\">\n  <div class=\"bottom-left\">Bottom Left</div>\n  <div class=\"top-left\">Top Left</div>\n  <div class=\"top-right\">Top Right</div>\n  <div class=\"bottom-right\">Bottom Right</div>\n  <div class=\"centered\">Centered</div>\n</div>"
+      },
+      "date": 1549923700411
+    },
+    {
+      "type": "edit",
+      "id": "165742d660afee24",
+      "item": {
+        "type": "html",
+        "id": "165742d660afee24",
+        "text": "<div class=\"container\">\n  <img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" alt=\"Snow\" style=\"width:100%;\">\n  <div class=\"bottom-left\">Bottom Left</div>\n  <div class=\"top-left\">Top Left</div>\n  <div class=\"top-right\">Top Right</div>\n  <div class=\"bottom-right\">Bottom Right</div>\n  <div class=\"centered\">Centered</div>\n</div>"
+      },
+      "date": 1549923712705
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"left\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<a href=\"[[new page]]\">\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n"
+      },
+      "date": 1549924190288
+    },
+    {
+      "type": "edit",
+      "id": "165742d660afee24",
+      "item": {
+        "type": "html",
+        "id": "165742d660afee24",
+        "text": "<div class=\"container\">\n  <img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" alt=\"Snow\" style=\"width:50%;\">\n  <div class=\"bottom-left\">Bottom Left</div>\n  <div class=\"top-left\">Top Left</div>\n  <div class=\"top-right\">Top Right</div>\n  <div class=\"bottom-right\">Bottom Right</div>\n  <div class=\"centered\">Centered</div>\n</div>"
+      },
+      "date": 1549924285310
+    },
+    {
+      "type": "edit",
+      "id": "d87072bb57d0eb49",
+      "item": {
+        "type": "html",
+        "id": "d87072bb57d0eb49",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>\n<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<caption align=\"bottom\">[[new page]]</caption>"
+      },
+      "date": 1549924323756
+    }
+  ]
+}

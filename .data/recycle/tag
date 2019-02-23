@@ -1,0 +1,48 @@
+{
+  "title": "Tag",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tag",
+        "story": []
+      },
+      "date": 1550036523783
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c6115a5da10bb67f"
+      },
+      "id": "c6115a5da10bb67f",
+      "type": "add",
+      "date": 1550036525293
+    },
+    {
+      "type": "edit",
+      "id": "c6115a5da10bb67f",
+      "item": {
+        "type": "paragraph",
+        "id": "c6115a5da10bb67f",
+        "text": "This needs filled in."
+      },
+      "date": 1550036532396
+    },
+    {
+      "type": "edit",
+      "id": "c6115a5da10bb67f",
+      "item": {
+        "type": "paragraph",
+        "id": "c6115a5da10bb67f",
+        "text": "This needs [[filled]] in."
+      },
+      "date": 1550036565327
+    },
+    {
+      "type": "remove",
+      "id": "c6115a5da10bb67f",
+      "date": 1550036629016
+    }
+  ]
+}

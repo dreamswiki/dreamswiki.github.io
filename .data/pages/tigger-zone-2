@@ -1,0 +1,84 @@
+{
+  "title": "Tigger Zone 2",
+  "story": [
+    {
+      "type": "html",
+      "id": "b0878dabfe9bd873",
+      "text": "<img src=\"https://cdn.glitch.com/4a6d8cd1-7d2a-4e00-9c30-24ac35d7c3ee%2FTrigger%20Zone%20Test%20photo%204.jpg?1550456273501\" style=\"float:right;width:220px;\">"
+    },
+    {
+      "type": "paragraph",
+      "id": "eb0bcc6da7d40fc1",
+      "text": "A Trigger zone detects when something has entered its area."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tigger Zone 2",
+        "story": []
+      },
+      "date": 1550455763694
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0878dabfe9bd873"
+      },
+      "id": "b0878dabfe9bd873",
+      "type": "add",
+      "date": 1550455767740
+    },
+    {
+      "type": "edit",
+      "id": "b0878dabfe9bd873",
+      "item": {
+        "type": "html",
+        "id": "b0878dabfe9bd873",
+        "text": "<img src=\"https://cdn.glitch.com/6da202a9-dc0b-40da-95f9-968f9c4129fb%2FTrigger%20Zone%20Test%20photo%202.png?1550453180124\" style=\"float:right;width:220px;\">"
+      },
+      "date": 1550455769343
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "eb0bcc6da7d40fc1"
+      },
+      "id": "eb0bcc6da7d40fc1",
+      "type": "add",
+      "after": "b0878dabfe9bd873",
+      "date": 1550455772709
+    },
+    {
+      "type": "edit",
+      "id": "eb0bcc6da7d40fc1",
+      "item": {
+        "type": "paragraph",
+        "id": "eb0bcc6da7d40fc1",
+        "text": "A Trigger zone detects when something has entered its area."
+      },
+      "date": 1550455782464
+    },
+    {
+      "type": "edit",
+      "id": "b0878dabfe9bd873",
+      "item": {
+        "type": "html",
+        "id": "b0878dabfe9bd873",
+        "text": "<img src=\"https://cdn.glitch.com/4a6d8cd1-7d2a-4e00-9c30-24ac35d7c3ee%2FTrigger%20Zone%20Test%20photo%204.png?1550455880833\" style=\"float:right;width:220px;\">"
+      },
+      "date": 1550455895495
+    },
+    {
+      "type": "edit",
+      "id": "b0878dabfe9bd873",
+      "item": {
+        "type": "html",
+        "id": "b0878dabfe9bd873",
+        "text": "<img src=\"https://cdn.glitch.com/4a6d8cd1-7d2a-4e00-9c30-24ac35d7c3ee%2FTrigger%20Zone%20Test%20photo%204.jpg?1550456273501\" style=\"float:right;width:220px;\">"
+      },
+      "date": 1550456288199
+    }
+  ]
+}

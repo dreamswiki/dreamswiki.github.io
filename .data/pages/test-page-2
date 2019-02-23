@@ -1,0 +1,194 @@
+{
+  "title": "test-page-2",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "57f185c9b054a63a",
+      "text": "test page 2"
+    },
+    {
+      "type": "html",
+      "id": "cd9f6834f34ab242",
+      "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<table width=\"(width)\" height=\"(height)\" background=\"(path to image)\" cellpadding=\"5\" cellspacing=\"0\">\n<tr>\n<td valign=\"bottom\">\n<p><b><font color=\"#ffffff\">\n(text to appear over the image goes here)\n</font></b></p>\n</td>\n</tr>\n</table>"
+    },
+    {
+      "type": "html",
+      "id": "a81f64740eaa0418",
+      "text": "<html>\n<head>\n    <style type=\"text/css\">\n    .title {\n        color: blue;\n        text-decoration: bold;\n        text-size: 1em;\n    }\n\n    .author {\n        color: gray;\n    }\n    </style>\n</head>\n<body>\n    <p>\n    <span class=\"title\">La super bonne</span>\n    <span class=\"author\">proposée par Jérém</span>\n    </p>\n</body>\n</html>"
+    },
+    {
+      "type": "html",
+      "id": "10797e61872c7dcf",
+      "text": " <!DOCTYPE html> \n  <html>\n  <head>\n<title>CAR APPLICATION</title>\n </head>\n <body>\n<center>\n    <h1>CAR APPLICATION</h1>\n</center>\n\n<table border=\"5\" bordercolor=\"red\" align=\"center\">\n    <tr>\n        <th colspan=\"3\">ABCD</th> \n    </tr>\n    <tr>\n        <th>Name</th>\n        <th>Origin</th>\n        <th>Photo</th>\n    </tr>\n    <tr>\n        <td>Bugatti Veyron Super Sport</th>\n        <td>Molsheim, Alsace, France</th>\n                <!-- considering it is on the same folder that .html file -->\n        <td><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\"  alt=\"\" border=3 height=100 width=300></img></th>\n    </tr>\n    <tr>\n        <td>SSC Ultimate Aero TT  TopSpeed</th>\n        <td>United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Koenigsegg CCX</th>\n        <td>Ängelholm, Sweden</th>\n        <td border=4 height=100 width=300>Photo1</th>\n    </tr>\n    <tr>\n        <td>Saleen S7</th>\n        <td>Irvine, California, United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> McLaren F1</th>\n        <td>Surrey, England</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Ferrari Enzo</th>\n        <td>Maranello, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> Pagani Zonda F Clubsport</th>\n        <td>Modena, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n</table>\n  </body>\n  <html>"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "test-page-2",
+        "story": []
+      },
+      "date": 1549907325141
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "57f185c9b054a63a"
+      },
+      "id": "57f185c9b054a63a",
+      "type": "add",
+      "date": 1549907327441
+    },
+    {
+      "type": "edit",
+      "id": "57f185c9b054a63a",
+      "item": {
+        "type": "paragraph",
+        "id": "57f185c9b054a63a",
+        "text": "test page 2"
+      },
+      "date": 1549907331429
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9d705785d7ca473c"
+      },
+      "id": "9d705785d7ca473c",
+      "type": "add",
+      "after": "57f185c9b054a63a",
+      "date": 1549922827650
+    },
+    {
+      "type": "edit",
+      "id": "9d705785d7ca473c",
+      "item": {
+        "type": "paragraph",
+        "id": "9d705785d7ca473c",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549922830626
+    },
+    {
+      "type": "remove",
+      "id": "9d705785d7ca473c",
+      "date": 1549922834437
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48865d2ba1976d97"
+      },
+      "id": "48865d2ba1976d97",
+      "type": "add",
+      "after": "57f185c9b054a63a",
+      "date": 1549922835248
+    },
+    {
+      "type": "edit",
+      "id": "48865d2ba1976d97",
+      "item": {
+        "type": "paragraph",
+        "id": "48865d2ba1976d97",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549922839335
+    },
+    {
+      "type": "remove",
+      "id": "48865d2ba1976d97",
+      "date": 1549922842161
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cd9f6834f34ab242"
+      },
+      "id": "cd9f6834f34ab242",
+      "type": "add",
+      "after": "57f185c9b054a63a",
+      "date": 1549922843334
+    },
+    {
+      "type": "edit",
+      "id": "cd9f6834f34ab242",
+      "item": {
+        "type": "html",
+        "id": "cd9f6834f34ab242",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">"
+      },
+      "date": 1549922846619
+    },
+    {
+      "type": "edit",
+      "id": "cd9f6834f34ab242",
+      "item": {
+        "type": "html",
+        "id": "cd9f6834f34ab242",
+        "text": "<img src=\"https://html.com/wp-content/uploads/flamingo.jpg\" height=\"42\" width=\"42\">\n<table width=\"(width)\" height=\"(height)\" background=\"(path to image)\" cellpadding=\"5\" cellspacing=\"0\">\n<tr>\n<td valign=\"bottom\">\n<p><b><font color=\"#ffffff\">\n(text to appear over the image goes here)\n</font></b></p>\n</td>\n</tr>\n</table>"
+      },
+      "date": 1549922858134
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a81f64740eaa0418"
+      },
+      "id": "a81f64740eaa0418",
+      "type": "add",
+      "after": "cd9f6834f34ab242",
+      "date": 1549925089851
+    },
+    {
+      "type": "edit",
+      "id": "a81f64740eaa0418",
+      "item": {
+        "type": "html",
+        "id": "a81f64740eaa0418",
+        "text": "<table>\n<tr>\n  <td>TEXT HERE<br />\n  TEXT HERE<br />\n  TEXT HERE</td>\n  <td><img src=\"http://placehold.it/350x150\"></td>\n</tr>\n<tr>\n<td><img src=\"http://placehold.it/250x150\"></td>\n</tr>\n</table>"
+      },
+      "date": 1549925092077
+    },
+    {
+      "type": "edit",
+      "id": "a81f64740eaa0418",
+      "item": {
+        "type": "html",
+        "id": "a81f64740eaa0418",
+        "text": "<html>\n<head>\n    <style type=\"text/css\">\n    .title {\n        color: blue;\n        text-decoration: bold;\n        text-size: 1em;\n    }\n\n    .author {\n        color: gray;\n    }\n    </style>\n</head>\n<body>\n    <p>\n    <span class=\"title\">La super bonne</span>\n    <span class=\"author\">proposée par Jérém</span>\n    </p>\n</body>\n</html>"
+      },
+      "date": 1549925278818
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10797e61872c7dcf"
+      },
+      "id": "10797e61872c7dcf",
+      "type": "add",
+      "after": "a81f64740eaa0418",
+      "date": 1549927032685
+    },
+    {
+      "type": "edit",
+      "id": "10797e61872c7dcf",
+      "item": {
+        "type": "html",
+        "id": "10797e61872c7dcf",
+        "text": " <!DOCTYPE html> \n  <html>\n  <head>\n<title>CAR APPLICATION</title>\n </head>\n <body>\n<center>\n    <h1>CAR APPLICATION</h1>\n</center>\n\n<table border=\"5\" bordercolor=\"red\" align=\"center\">\n    <tr>\n        <th colspan=\"3\">ABCD</th> \n    </tr>\n    <tr>\n        <th>Name</th>\n        <th>Origin</th>\n        <th>Photo</th>\n    </tr>\n    <tr>\n        <td>Bugatti Veyron Super Sport</th>\n        <td>Molsheim, Alsace, France</th>\n                <!-- considering it is on the same folder that .html file -->\n        <td><img src=\".\\A.jpeg\" alt=\"\" border=3 height=100 width=300></img></th>\n    </tr>\n    <tr>\n        <td>SSC Ultimate Aero TT  TopSpeed</th>\n        <td>United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Koenigsegg CCX</th>\n        <td>Ängelholm, Sweden</th>\n        <td border=4 height=100 width=300>Photo1</th>\n    </tr>\n    <tr>\n        <td>Saleen S7</th>\n        <td>Irvine, California, United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> McLaren F1</th>\n        <td>Surrey, England</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Ferrari Enzo</th>\n        <td>Maranello, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> Pagani Zonda F Clubsport</th>\n        <td>Modena, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n</table>\n  </body>\n  <html>"
+      },
+      "date": 1549927034532
+    },
+    {
+      "type": "edit",
+      "id": "10797e61872c7dcf",
+      "item": {
+        "type": "html",
+        "id": "10797e61872c7dcf",
+        "text": " <!DOCTYPE html> \n  <html>\n  <head>\n<title>CAR APPLICATION</title>\n </head>\n <body>\n<center>\n    <h1>CAR APPLICATION</h1>\n</center>\n\n<table border=\"5\" bordercolor=\"red\" align=\"center\">\n    <tr>\n        <th colspan=\"3\">ABCD</th> \n    </tr>\n    <tr>\n        <th>Name</th>\n        <th>Origin</th>\n        <th>Photo</th>\n    </tr>\n    <tr>\n        <td>Bugatti Veyron Super Sport</th>\n        <td>Molsheim, Alsace, France</th>\n                <!-- considering it is on the same folder that .html file -->\n        <td><img src=\"https://html.com/wp-content/uploads/flamingo.jpg\"  alt=\"\" border=3 height=100 width=300></img></th>\n    </tr>\n    <tr>\n        <td>SSC Ultimate Aero TT  TopSpeed</th>\n        <td>United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Koenigsegg CCX</th>\n        <td>Ängelholm, Sweden</th>\n        <td border=4 height=100 width=300>Photo1</th>\n    </tr>\n    <tr>\n        <td>Saleen S7</th>\n        <td>Irvine, California, United States</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> McLaren F1</th>\n        <td>Surrey, England</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td>Ferrari Enzo</th>\n        <td>Maranello, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n    <tr>\n        <td> Pagani Zonda F Clubsport</th>\n        <td>Modena, Italy</th>\n        <td border=3 height=100 width=100>Photo1</th>\n    </tr>\n</table>\n  </body>\n  <html>"
+      },
+      "date": 1549927054029
+    }
+  ]
+}

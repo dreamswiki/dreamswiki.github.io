@@ -1,0 +1,38 @@
+{
+  "title": "filled",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "filled",
+        "story": []
+      },
+      "date": 1550036570560
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fee3f0dea3a5361d"
+      },
+      "id": "fee3f0dea3a5361d",
+      "type": "add",
+      "date": 1550036571986
+    },
+    {
+      "type": "edit",
+      "id": "fee3f0dea3a5361d",
+      "item": {
+        "type": "paragraph",
+        "id": "fee3f0dea3a5361d",
+        "text": "It feels good."
+      },
+      "date": 1550036576184
+    },
+    {
+      "type": "remove",
+      "id": "fee3f0dea3a5361d",
+      "date": 1550036591733
+    }
+  ]
+}
